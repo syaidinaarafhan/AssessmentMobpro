@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="opening_text">Hai Selamat datang di aplikasi Cetan, Apakah kamu sudah cek
+        kesehatan kamu hari ini?
+    </string>
+    <string name="button_home">Masuk</string>
+    <string name="kembali">Kembali</string>
+    <string name="berapa_jam_tidur">Berapa jam kamu tidur?</string>
+    <string name="jam_tidur">Jam</string>
+    <string name="minum">Sudahkah Kamu Minum Yang Cukup?</string>
+    <string name="makan">Apakah kamu memakan makanan yang sehat?</string>
+    <string name="button_main">Cek</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="input_invalid">Harus Ada isinya</string>
+    <string name="sudah">Sudah</string>
+    <string name="info_aplikasi">Info Aplikasi</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="opening_text">Hi Welcome to the Cetan application, have you checked         your health today?</string>
+    <string name="button_home">Enter</string>
+    <string name="kembali">Back</string>
+    <string name="berapa_jam_tidur">How many hours do you sleep?</string>
+    <string name="jam_tidur">Hours</string>
+    <string name="minum">Have You Drink Enough?</string>
+    <string name="makan">Are you eating healthy food?</string>
+    <string name="button_main">Check</string>
+    <string name="bagikan">Share</string>
+    <string name="input_invalid">Harus Ada isinya</string>
+    <string name="sudah">Done</string>
+    <string name="info_aplikasi">Aplication Info</string>
+</resources>
